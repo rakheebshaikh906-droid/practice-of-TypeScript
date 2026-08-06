@@ -46,3 +46,8 @@ let person: Person = {
 
 console.log(person.name);
 console.log(person.age);
+
+//variable declaration
+let x: number;
+let y: string;
+let z: boolean;
