@@ -22,5 +22,8 @@
   "homepage": "https://github.com/rakheebshaikh906-droid/practice-of-TypeScript#readme",
   "devDependencies": {
     "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "axios": "^1.19.0"
   }
 }
