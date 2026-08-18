@@ -31,7 +31,7 @@ console.log(booleanValue);
 // 2. GENERIC FUNCTION WITH ARRAY
 // ============================================================
 
-function getFirst<T>(items: T[]): T {
+function getFirst<T>(items: T[]): T | undefined {
     return items[0];
 }
 
